@@ -1,4 +1,4 @@
 # BoxShoot
 Game
 
-(play)[BoxShoot.html]
+[play](BoxShoot.html)
